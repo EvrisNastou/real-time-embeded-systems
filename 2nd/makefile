@@ -39,7 +39,7 @@ $(TARGET): $(OBJS)
 %.o: %.c my_pthreads.h cJSON.h
 	$(CC) $(CFLAGS) -c $< -o $@
 
-#sync the rpi with the system to make cross-complining
+#sync the rpi with the system to make cross compiling
 sync:
 	@echo "=========================================================="
 	@echo "Starting synchronization for Raspberry Pi..."
