@@ -11,7 +11,7 @@ close all;
 
 set(groot, 'defaultFigureRenderer', 'painters');
 
-filename = 'metrics_log.txt';
+filename = 'metrics_log_10_7.txt';
 try
     data = readmatrix(filename);
 catch
