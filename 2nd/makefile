@@ -25,7 +25,7 @@ LDFLAGS = -L$(SYSROOT)/usr/lib/arm-linux-gnueabihf -L$(SYSROOT)/lib/arm-linux-gn
 LIBS = -lpthread -lwebsockets -lssl -lcrypto -lm
 
 # Project source files and corresponding object files
-SRCS = main.c queue.c producer.c consumer.c monitor.c cJSON.c
+SRCS = main.c queue.c producer.c consumer.c monitor.c cJSON.c logger.c
 OBJS = $(SRCS:.c=.o)
 
 # Final executable output name
@@ -39,7 +39,7 @@ $(TARGET): $(OBJS)
 %.o: %.c my_pthreads.h cJSON.h
 	$(CC) $(CFLAGS) -c $< -o $@
 
-#sync the rpi with the system to make cross compiling
+#sync the rpi with the system to make cross-complining
 sync:
 	@echo "=========================================================="
 	@echo "Starting synchronization for Raspberry Pi..."

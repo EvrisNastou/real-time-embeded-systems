@@ -5,14 +5,20 @@ void *consumer(void *arg){
 
     char local_buffer[MAX_JSON_SIZE]; //local buffer to store the JSON from the queue and parse it
     
-    while(1) {
+    while(keep_running) {
         // ---Take the object from the queue---
         pthread_mutex_lock(&fifo->mut);// lock the queue to read/remove object with safety
 
         //if the queue is empty the consumer sleeps and wait for the signal notEmpty
-        while (fifo->empty) {
+        while (fifo->empty && keep_running) {
             //unlcok mutex and wait for data
             pthread_cond_wait(&fifo->notEmpty, &fifo->mut);
+        }
+
+        // if shutdown was requested while waiting, unlock and exit cleanly
+        if (!keep_running) {
+            pthread_mutex_unlock(&fifo->mut);
+            break;
         }
 
         //take the JSON form the queue to the local variable

@@ -15,6 +15,8 @@
 #define QUEUESIZE 300       //maximum number of elements in the queue
 #define MAX_JSON_SIZE 131072 //maximum size of a single JSON message in bytes
 
+#define LOG_MSG_SIZE 256    //max length of a single status message
+
 
 // per-session data for reassembling fragmented WebSocket messages.
 // libwebsockets allocates this automatically per connection.
@@ -43,14 +45,32 @@ typedef struct {
     pthread_mutex_t stats_mut; // mutex only for status to make the update safe
 } message_stats;
 
+// producer messages: disconnets, connects, and other messages just to not print it in the producer
+typedef struct {
+    int has_event;              // 1 = there's a message waiting to be printed
+    char message[LOG_MSG_SIZE]; // the message itself
+    pthread_mutex_t mut;
+} producer_status;
+
+//make the status global, shared between producer and monitor
+extern producer_status prod_status;
+
 //make the struct global
 extern message_stats app_stats;
+
+// global flag: set to 0 to request a clean shutdown of all threads
+extern volatile sig_atomic_t keep_running;
 
 
 //queue functions
 void queueInit(queue *qu); //initialization of the queue
 void queueAdd(queue *qu,const char *json_message, size_t len); //add a message to the queue (producer)
 void queueDel(queue *qu, char *out_message); //remove and read a message from the queue (consumer)
+
+//status functions (producer -> monitor status messages, single-slot)
+void status_init(producer_status *s); //initialization
+void status_set(producer_status *s, const char *fmt, ...); //format and set the pending message (non-blocking, no I/O)
+int  status_check_and_clear(producer_status *s, char *out, size_t out_size); //if a message is pending, copy it to 'out' and clear the flag; returns 1 if one was returned, 0 otherwise
 
 // Thread entry point functions
 void *producer(void *arg); // producer thread: reads from WebSocket and adds to queue

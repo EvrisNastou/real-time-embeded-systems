@@ -9,8 +9,8 @@ static int callback_jetstream(struct lws *wsi, enum lws_callback_reasons reason,
 
     switch (reason) {
         case LWS_CALLBACK_CLIENT_ESTABLISHED:
-            // confirm the connection
-            printf("[Producer] Successfully connected to Bluesky Jetstream!\n");
+            // confirm the connection (buffered, printed later by the monitor)
+            status_set(&prod_status, "[Producer] Successfully connected to Bluesky Jetstream!");
             break;
 
         case LWS_CALLBACK_CLIENT_RECEIVE: {
@@ -23,7 +23,7 @@ static int callback_jetstream(struct lws *wsi, enum lws_callback_reasons reason,
                 pss->msg_len += len;
             } else {
                 // buffer overflow protection in case of exceptionally large messages
-                fprintf(stderr, "[Producer] Message exceeds MAX_JSON_SIZE!\n");
+                status_set(&prod_status, "[Producer] Message exceeds MAX_JSON_SIZE!");
                 pss->msg_len = 0; 
             }
 
@@ -48,12 +48,17 @@ static int callback_jetstream(struct lws *wsi, enum lws_callback_reasons reason,
         }
         
         case LWS_CALLBACK_CLIENT_CONNECTION_ERROR:
-            printf("[Producer] Connection error!\n");
+            // libwebsockets passes a human-readable reason string in 'in' for this event
+            if (in && len > 0) {
+                status_set(&prod_status, "[Producer] Connection error: %.*s", (int)len, (char *)in);
+            } else {
+                status_set(&prod_status, "[Producer] Connection error: unknown reason");
+            }
             connection_dropped = 1; // raise the flag indicating the connection dropped
             break;
 
         case LWS_CALLBACK_CLIENT_CLOSED:
-            printf("[Producer] Connection closed.\n");
+            status_set(&prod_status, "[Producer] Connection closed.");
             connection_dropped = 1; // raise the flag indicating the connection dropped
             break;
 
@@ -108,10 +113,10 @@ void *producer(void *args) {
     ccinfo.protocol = protocols[0].name;
 
     // infinite loop to ensure persistent reconnection if the network drops
-    while (1) {
+    while (keep_running) {
         context = lws_create_context(&info);
         if (!context) {
-            fprintf(stderr, "[Producer] Failed to create context. Retrying in 5 seconds...\n");
+            status_set(&prod_status, "[Producer] Failed to create context. Retrying in 5 seconds...");
             sleep(5);
             continue;
         }
@@ -119,26 +124,28 @@ void *producer(void *args) {
         ccinfo.context = context;
         
         if (lws_client_connect_via_info(&ccinfo) == NULL) {
-            fprintf(stderr, "[Producer] Initial connection failed. Retrying in 5 seconds...\n");
+            status_set(&prod_status, "[Producer] Initial connection failed. Retrying in 5 seconds...");
             lws_context_destroy(context);
             sleep(5);
             continue;
         }
 
-        printf("[Producer] Network event loop started...\n");
+        status_set(&prod_status, "[Producer] Network event loop started...");
 
         connection_dropped = 0;
 
         // main event loop: keeps the connection alive and processes incoming packets
-        while (!connection_dropped) {
+        while (!connection_dropped && keep_running) {
             if (lws_service(context, 50) < 0) {
                 break; // if lws_service returns an error, break out of the inner loop
             }
         }
 
-        fprintf(stderr, "[Producer] Connection lost! Attempting to reconnect in 5 seconds...\n");
+        lws_context_destroy(context); // free resources and destroy context
 
-        lws_context_destroy(context); // free resources and destroy context before the next retry
+        if (!keep_running) break; // shutdown requested: exit the reconnect loop too
+
+        status_set(&prod_status, "[Producer] Connection lost! Attempting to reconnect in 5 seconds...");
         sleep(5); // wait 5 seconds to avoid spamming the server
     }
 

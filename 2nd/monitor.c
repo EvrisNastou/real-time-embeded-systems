@@ -40,7 +40,7 @@ void *monitor(void *arg) {
     // Read the INITIAL monotonic time to avoid clock drift
     clock_gettime(CLOCK_MONOTONIC, &next_time);
 
-    while (1) {
+    while (keep_running) {
         cycle_count++; 
         next_time.tv_sec += 1;
         
@@ -84,8 +84,15 @@ void *monitor(void *arg) {
         prev_total = curr_total;
         prev_idle  = curr_idle;
 
+        // --- if the producer reported something since the last tick, print it ---
+        char status_msg[LOG_MSG_SIZE];
+        if (status_check_and_clear(&prod_status, status_msg, sizeof(status_msg))) {
+            printf("%s\n", status_msg);
+            if (log_file) fprintf(log_file, "# %s\n", status_msg);
+        }
+
         // --- print metrics to the terminal ---
-        printf("\n[Monitor] --- Tick %llu ---\n", cycle_count);
+        printf("\n[Monitor] --- Tick %lu ---\n", ts.tv_sec);
         printf("  Δεδομένα : Commits: %u | Identities: %u | Accounts: %u | Infos: %u\n", commits, identities, accounts, infos);
         printf("  Σύστημα  : Ουρά: %5.2f%% | CPU: %5.2f%%\n", queue_fullness, cpu_usage);
         fflush(stdout);
@@ -105,5 +112,6 @@ void *monitor(void *arg) {
         }
     }
 
+    if (log_file) fclose(log_file);
     return NULL;
 }
