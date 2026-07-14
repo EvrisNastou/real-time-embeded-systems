@@ -1,11 +1,16 @@
+% =========================================================
+% MATLAB Script: Ανάλυση Metrics - Bluesky Firehose
+% Προδιαγραφές: Sec, NSec, Commit, Identity, Account, Info, Buffer%, CPU%
+% =========================================================
+
+% 1. Φόρτωση των δεδομένων
+% Η readmatrix διαβάζει το CSV. Αν η 1η γραμμή έχει γράμματα, την αγνοεί αυτόματα.
 clc;
 clear;
 close all;
 
 set(groot, 'defaultFigureRenderer', 'painters');
 
-% 1. Φόρτωση των δεδομένων
-% Η readmatrix διαβάζει το CSV. Αν η 1η γραμμή έχει γράμματα, την αγνοεί αυτόματα.
 filename = 'metrics_log.txt';
 try
     data = readmatrix(filename);
