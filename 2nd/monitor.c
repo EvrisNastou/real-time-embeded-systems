@@ -23,7 +23,6 @@ static void get_cpu_times(unsigned long long *total, unsigned long long *idle) {
 void *monitor(void *arg) {
     queue *fifo = (queue *)arg;
     struct timespec next_time, ts;
-    unsigned long long cycle_count = 0;
     
     unsigned long long prev_total = 0, prev_idle = 0;
     unsigned long long curr_total = 0, curr_idle = 0;
@@ -41,7 +40,6 @@ void *monitor(void *arg) {
     clock_gettime(CLOCK_MONOTONIC, &next_time);
 
     while (keep_running) {
-        cycle_count++; 
         next_time.tv_sec += 1;
         
         //the thread sleeps strictly until the exact next second
