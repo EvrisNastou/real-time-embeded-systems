@@ -27,6 +27,7 @@ void status_set(producer_status *s, const char *fmt, ...) {
     pthread_mutex_unlock(&s->mut);
 }
 
+
 int status_check_and_clear(producer_status *s, char *out, size_t out_size) {
     int got = 0;
 
