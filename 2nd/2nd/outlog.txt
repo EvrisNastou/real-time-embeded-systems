@@ -1,0 +1,1587 @@
+[Producer] Successfully connected to Bluesky Jetstream!
+
+[Monitor] --- Tick 1 ---
+  Δεδομένα : Commits: 3 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  5.53%
+
+[Monitor] --- Tick 2 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 3 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.74%
+
+[Monitor] --- Tick 4 ---
+  Δεδομένα : Commits: 41 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 5 ---
+  Δεδομένα : Commits: 62 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 6 ---
+  Δεδομένα : Commits: 31 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 7 ---
+  Δεδομένα : Commits: 35 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 8 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 9 ---
+  Δεδομένα : Commits: 58 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 10 ---
+  Δεδομένα : Commits: 88 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.77%
+
+[Monitor] --- Tick 11 ---
+  Δεδομένα : Commits: 74 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.77%
+
+[Monitor] --- Tick 12 ---
+  Δεδομένα : Commits: 69 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.76%
+
+[Monitor] --- Tick 13 ---
+  Δεδομένα : Commits: 77 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.02%
+
+[Monitor] --- Tick 14 ---
+  Δεδομένα : Commits: 60 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 15 ---
+  Δεδομένα : Commits: 45 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 16 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 17 ---
+  Δεδομένα : Commits: 53 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 18 ---
+  Δεδομένα : Commits: 52 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 19 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 20 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 21 ---
+  Δεδομένα : Commits: 51 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 22 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 23 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 24 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 25 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 26 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.48%
+
+[Monitor] --- Tick 27 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 28 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 29 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 30 ---
+  Δεδομένα : Commits: 30 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 31 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.49%
+
+[Monitor] --- Tick 32 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 33 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 34 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 35 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 36 ---
+  Δεδομένα : Commits: 41 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 37 ---
+  Δεδομένα : Commits: 37 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 38 ---
+  Δεδομένα : Commits: 41 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 39 ---
+  Δεδομένα : Commits: 57 | Identities: 1 | Accounts: 4 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 40 ---
+  Δεδομένα : Commits: 57 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 41 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 42 ---
+  Δεδομένα : Commits: 51 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 43 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 44 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 45 ---
+  Δεδομένα : Commits: 35 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.74%
+
+[Monitor] --- Tick 46 ---
+  Δεδομένα : Commits: 52 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 47 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 48 ---
+  Δεδομένα : Commits: 59 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 49 ---
+  Δεδομένα : Commits: 53 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 50 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 51 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 52 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 53 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 54 ---
+  Δεδομένα : Commits: 45 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 55 ---
+  Δεδομένα : Commits: 56 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 56 ---
+  Δεδομένα : Commits: 44 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 57 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 58 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 59 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 60 ---
+  Δεδομένα : Commits: 40 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 61 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 62 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.48%
+
+[Monitor] --- Tick 63 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 64 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 65 ---
+  Δεδομένα : Commits: 51 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 66 ---
+  Δεδομένα : Commits: 29 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 67 ---
+  Δεδομένα : Commits: 26 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 68 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 69 ---
+  Δεδομένα : Commits: 91 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.27%
+
+[Monitor] --- Tick 70 ---
+  Δεδομένα : Commits: 81 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  3.47%
+
+[Monitor] --- Tick 71 ---
+  Δεδομένα : Commits: 71 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.01%
+
+[Monitor] --- Tick 72 ---
+  Δεδομένα : Commits: 52 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 73 ---
+  Δεδομένα : Commits: 68 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 74 ---
+  Δεδομένα : Commits: 52 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 75 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 76 ---
+  Δεδομένα : Commits: 43 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 77 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 78 ---
+  Δεδομένα : Commits: 53 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 79 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 80 ---
+  Δεδομένα : Commits: 56 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.25%
+
+[Monitor] --- Tick 81 ---
+  Δεδομένα : Commits: 51 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 82 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 83 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 84 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 85 ---
+  Δεδομένα : Commits: 39 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 86 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 87 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 88 ---
+  Δεδομένα : Commits: 40 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 89 ---
+  Δεδομένα : Commits: 50 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 90 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 91 ---
+  Δεδομένα : Commits: 51 | Identities: 1 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 92 ---
+  Δεδομένα : Commits: 35 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 93 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 94 ---
+  Δεδομένα : Commits: 41 | Identities: 3 | Accounts: 4 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 95 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 96 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 97 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 98 ---
+  Δεδομένα : Commits: 62 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.49%
+
+[Monitor] --- Tick 99 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 100 ---
+  Δεδομένα : Commits: 65 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.51%
+
+[Monitor] --- Tick 101 ---
+  Δεδομένα : Commits: 64 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.01%
+
+[Monitor] --- Tick 102 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 103 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 104 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 105 ---
+  Δεδομένα : Commits: 31 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 106 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 107 ---
+  Δεδομένα : Commits: 61 | Identities: 1 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 108 ---
+  Δεδομένα : Commits: 48 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 109 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 110 ---
+  Δεδομένα : Commits: 47 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 111 ---
+  Δεδομένα : Commits: 54 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 112 ---
+  Δεδομένα : Commits: 55 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 113 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 114 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 115 ---
+  Δεδομένα : Commits: 34 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 116 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 117 ---
+  Δεδομένα : Commits: 52 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 118 ---
+  Δεδομένα : Commits: 37 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 119 ---
+  Δεδομένα : Commits: 51 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 120 ---
+  Δεδομένα : Commits: 31 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 121 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.74%
+
+[Monitor] --- Tick 122 ---
+  Δεδομένα : Commits: 59 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 123 ---
+  Δεδομένα : Commits: 33 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 124 ---
+  Δεδομένα : Commits: 45 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 125 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 126 ---
+  Δεδομένα : Commits: 28 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 127 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 128---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 129 ---
+  Δεδομένα : Commits: 64 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 130 ---
+  Δεδομένα : Commits: 65 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 131 ---
+  Δεδομένα : Commits: 68 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 132 ---
+  Δεδομένα : Commits: 52 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 133 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 134 ---
+  Δεδομένα : Commits: 53 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 135 ---
+  Δεδομένα : Commits: 46 | Identities: 1 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 136 ---
+  Δεδομένα : Commits: 41 | Identities: 3 | Accounts: 3 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 137 ---
+  Δεδομένα : Commits: 62 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.49%
+
+[Monitor] --- Tick 138 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 139 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 140 ---
+  Δεδομένα : Commits: 44 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 141 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 142 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 143 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 144 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 145 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 146 ---
+  Δεδομένα : Commits: 34 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 147 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 148 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 149 ---
+  Δεδομένα : Commits: 55 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 150 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 151 ---
+  Δεδομένα : Commits: 46 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 152 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.99%
+
+[Monitor] --- Tick 153 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 154 ---
+  Δεδομένα : Commits: 45 | Identities: 1 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 156 ---
+  Δεδομένα : Commits: 27 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 157 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 158 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 159 ---
+  Δεδομένα : Commits: 52 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 160 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030796 ---
+  Δεδομένα : Commits: 54 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.01%
+
+[Monitor] --- Tick 1784030797 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030798 ---
+  Δεδομένα : Commits: 31 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784030799 ---
+  Δεδομένα : Commits: 33 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030800 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 1784030801 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030802 ---
+  Δεδομένα : Commits: 52 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030803 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030804 ---
+  Δεδομένα : Commits: 57 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030805 ---
+  Δεδομένα : Commits: 29 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 1784030806 ---
+  Δεδομένα : Commits: 31 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030807 ---
+  Δεδομένα : Commits: 45 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030808 ---
+  Δεδομένα : Commits: 55 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030809 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030810 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 1784030811 ---
+  Δεδομένα : Commits: 14 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030812 ---
+  Δεδομένα : Commits: 70 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.26%
+
+[Monitor] --- Tick 1784030813 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030814 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.99%
+
+[Monitor] --- Tick 1784030815 ---
+  Δεδομένα : Commits: 53 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030816 ---
+  Δεδομένα : Commits: 47 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030817 ---
+  Δεδομένα : Commits: 38 | Identities: 3 | Accounts: 4 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030818 ---
+  Δεδομένα : Commits: 52 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 1784030819 ---
+  Δεδομένα : Commits: 34 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030820 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.74%
+
+[Monitor] --- Tick 1784030821 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 1784030822 ---
+  Δεδομένα : Commits: 24 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030823 ---
+  Δεδομένα : Commits: 30 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.74%
+
+[Monitor] --- Tick 1784030824 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030825 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  4.79%
+
+[Monitor] --- Tick 1784030826 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030827 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030828 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  5.50%
+
+[Monitor] --- Tick 1784030829 ---
+  Δεδομένα : Commits: 1 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030830 ---
+  Δεδομένα : Commits: 160 | Identities: 1 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  3.01%
+
+[Monitor] --- Tick 1784030831 ---
+  Δεδομένα : Commits: 289 | Identities: 3 | Accounts: 4 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  5.75%
+
+[Monitor] --- Tick 1784030832 ---
+  Δεδομένα : Commits: 119 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.76%
+
+[Monitor] --- Tick 1784030833 ---
+  Δεδομένα : Commits: 58 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 1784030834 ---
+  Δεδομένα : Commits: 67 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.02%
+
+[Monitor] --- Tick 1784030835 ---
+  Δεδομένα : Commits: 64 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.27%
+
+[Monitor] --- Tick 1784030836 ---
+  Δεδομένα : Commits: 59 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  7.29%
+
+[Monitor] --- Tick 1784030837 ---
+  Δεδομένα : Commits: 49 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 1784030838 ---
+  Δεδομένα : Commits: 60 | Identities: 2 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.77%
+
+[Monitor] --- Tick 1784030839 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030840 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.23%
+
+[Monitor] --- Tick 1784030841 ---
+  Δεδομένα : Commits: 41 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030842 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030843 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030844 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030845 ---
+  Δεδομένα : Commits: 52 | Identities: 3 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030846 ---
+  Δεδομένα : Commits: 62 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.01%
+
+[Monitor] --- Tick 1784030847 ---
+  Δεδομένα : Commits: 34 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030848 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030849 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030850 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  4.53%
+
+[Monitor] --- Tick 1784030851 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.51%
+
+[Monitor] --- Tick 1784030852 ---
+  Δεδομένα : Commits: 39 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030853 ---
+  Δεδομένα : Commits: 56 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.02%
+
+[Monitor] --- Tick 1784030854 ---
+  Δεδομένα : Commits: 58 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 1784030855 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  5.96%
+
+[Monitor] --- Tick 1784030856 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.52%
+
+[Monitor] --- Tick 1784030857 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784030858 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784030859 ---
+  Δεδομένα : Commits: 52 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 1784030860 ---
+  Δεδομένα : Commits: 57 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 1784030861 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU: 12.63%
+
+[Monitor] --- Tick 1784030862 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  9.60%
+
+[Monitor] --- Tick 1784030863 ---
+  Δεδομένα : Commits: 37 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU: 13.27%
+
+[Monitor] --- Tick 1784030864 ---
+  Δεδομένα : Commits: 40 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030865 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030866 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.52%
+
+[Monitor] --- Tick 1784030867 ---
+  Δεδομένα : Commits: 41 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.27%
+
+[Monitor] --- Tick 1784030868 ---
+  Δεδομένα : Commits: 43 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.26%
+
+[Monitor] --- Tick 1784030869 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  3.27%
+
+[Monitor] --- Tick 1784030870 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030871 ---
+  Δεδομένα : Commits: 32 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030872 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030873 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030874 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030875 ---
+  Δεδομένα : Commits: 44 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030876 ---
+  Δεδομένα : Commits: 56 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030877 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030878 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030879 ---
+  Δεδομένα : Commits: 47 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.99%
+
+[Monitor] --- Tick 1784030880 ---
+  Δεδομένα : Commits: 43 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030881 ---
+  Δεδομένα : Commits: 40 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 1784030882 ---
+  Δεδομένα : Commits: 21 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030883 ---
+  Δεδομένα : Commits: 38 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030884 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030885 ---
+  Δεδομένα : Commits: 86 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.51%
+
+[Monitor] --- Tick 1784030886 ---
+  Δεδομένα : Commits: 70 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.76%
+
+[Monitor] --- Tick 1784030887 ---
+  Δεδομένα : Commits: 51 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030888 ---
+  Δεδομένα : Commits: 104 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.28%
+
+[Monitor] --- Tick 1784030889 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030890 ---
+  Δεδομένα : Commits: 54 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.25%
+
+[Monitor] --- Tick 1784030891 ---
+  Δεδομένα : Commits: 58 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.74%
+
+[Monitor] --- Tick 1784030892 ---
+  Δεδομένα : Commits: 51 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030893 ---
+  Δεδομένα : Commits: 56 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030894 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030895 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 1784030896 ---
+  Δεδομένα : Commits: 55 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.52%
+
+[Monitor] --- Tick 1784030897 ---
+  Δεδομένα : Commits: 61 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.51%
+
+[Monitor] --- Tick 1784030898 ---
+  Δεδομένα : Commits: 46 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030899 ---
+  Δεδομένα : Commits: 38 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.99%
+
+[Monitor] --- Tick 1784030900 ---
+  Δεδομένα : Commits: 48 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030901 ---
+  Δεδομένα : Commits: 43 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030902 ---
+  Δεδομένα : Commits: 52 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 1784030903 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030904 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030905 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030906 ---
+  Δεδομένα : Commits: 54 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.52%
+
+[Monitor] --- Tick 1784030907 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030908 ---
+  Δεδομένα : Commits: 45 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030909 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030910 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030911 ---
+  Δεδομένα : Commits: 30 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784030912 ---
+  Δεδομένα : Commits: 40 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030913 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030914 ---
+  Δεδομένα : Commits: 33 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030915 ---
+  Δεδομένα : Commits: 32 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030916 ---
+  Δεδομένα : Commits: 51 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030917 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030918 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030919 ---
+  Δεδομένα : Commits: 52 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.00%
+
+[Monitor] --- Tick 1784030920 ---
+  Δεδομένα : Commits: 38 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030921 ---
+  Δεδομένα : Commits: 39 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030922 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030923 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.23%
+
+[Monitor] --- Tick 1784030924 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030925 ---
+  Δεδομένα : Commits: 40 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030926 ---
+  Δεδομένα : Commits: 56 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030927 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030928 ---
+  Δεδομένα : Commits: 34 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030929 ---
+  Δεδομένα : Commits: 45 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030930 ---
+  Δεδομένα : Commits: 50 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030931 ---
+  Δεδομένα : Commits: 27 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784030932 ---
+  Δεδομένα : Commits: 46 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030933 ---
+  Δεδομένα : Commits: 46 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030934 ---
+  Δεδομένα : Commits: 33 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.50%
+
+[Monitor] --- Tick 1784030935 ---
+  Δεδομένα : Commits: 49 | Identities: 0 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030936 ---
+  Δεδομένα : Commits: 41 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030937 ---
+  Δεδομένα : Commits: 31 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030938 ---
+  Δεδομένα : Commits: 35 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030939 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.99%
+
+[Monitor] --- Tick 1784030940 ---
+  Δεδομένα : Commits: 44 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030941 ---
+  Δεδομένα : Commits: 34 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030942 ---
+  Δεδομένα : Commits: 27 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030943 ---
+  Δεδομένα : Commits: 23 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030944 ---
+  Δεδομένα : Commits: 42 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.24%
+
+[Monitor] --- Tick 1784030945 ---
+  Δεδομένα : Commits: 78 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.02%
+
+[Monitor] --- Tick 1784030946 ---
+  Δεδομένα : Commits: 70 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030947 ---
+  Δεδομένα : Commits: 65 | Identities: 1 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030948 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 1784030949 ---
+  Δεδομένα : Commits: 58 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.26%
+
+[Monitor] --- Tick 1784030950 ---
+  Δεδομένα : Commits: 41 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030951 ---
+  Δεδομένα : Commits: 53 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784030952 ---
+  Δεδομένα : Commits: 62 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784030953 ---
+  Δεδομένα : Commits: 57 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.01%
+
+[Monitor] --- Tick 1784030954 ---
+  Δεδομένα : Commits: 44 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030955 ---
+  Δεδομένα : Commits: 46 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784030956 ---
+  Δεδομένα : Commits: 37 | Identities: 1 | Accounts: 1 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.75%
+
+[Monitor] --- Tick 1784030957 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Monitor] --- Tick 1784030958 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  2.52%
+
+[Monitor] --- Tick 1784030959 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030960 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030961 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030962 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030963 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030964 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  5.53%
+
+[Monitor] --- Tick 1784030965 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030966 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030967 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  7.23%
+
+[Monitor] --- Tick 1784030968 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030969 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030970 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030971 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030972 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  5.79%
+
+[Monitor] --- Tick 1784030973 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030974 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030975 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030976 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030977 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030978 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030979 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030980 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030981 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030982 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784030983 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030984 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030985 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030986 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030987 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030988 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030989 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030990 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030991 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030992 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784030993 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030994 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030995 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030996 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784030997 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030998 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784030999 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031000 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031001 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  4.76%
+
+[Monitor] --- Tick 1784031002 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031003 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031004 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784031005 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031006 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784031007 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031008 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.76%
+
+[Monitor] --- Tick 1784031009 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  3.75%
+
+[Monitor] --- Tick 1784031010 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  3.02%
+
+[Monitor] --- Tick 1784031011 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  8.91%
+
+[Monitor] --- Tick 1784031012 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784031013 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031014 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784031015 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031016 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784031017 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+[Producer] Connection lost! Attempting to reconnect in 5 seconds...
+
+[Monitor] --- Tick 1784031018 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784031019 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031020 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031021 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.00%
+
+[Monitor] --- Tick 1784031022 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+
+[Monitor] --- Tick 1784031023 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  3.51%
+[Producer] Network event loop started...
+
+[Monitor] --- Tick 1784031024 ---
+  Δεδομένα : Commits: 0 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.00%
+[Producer] Successfully connected to Bluesky Jetstream!
+
+[Monitor] --- Tick 1784031025 ---
+  Δεδομένα : Commits: 7 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.25%
+
+[Monitor] --- Tick 1784031026 ---
+  Δεδομένα : Commits: 65 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  1.75%
+
+[Monitor] --- Tick 1784031027 ---
+  Δεδομένα : Commits: 44 | Identities: 2 | Accounts: 2 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.50%
+
+[Monitor] --- Tick 1784031028 ---
+  Δεδομένα : Commits: 36 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784031029 ---
+  Δεδομένα : Commits: 43 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.25%
+
+[Monitor] --- Tick 1784031030 ---
+  Δεδομένα : Commits: 39 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.00% | CPU:  0.51%
+
+[Main] Shutdown requested, waking up threads...
+[Producer] Connection closed.
+
+[Monitor] --- Tick 1784031031 ---
+  Δεδομένα : Commits: 37 | Identities: 0 | Accounts: 0 | Infos: 0
+  Σύστημα  : Ουρά:  0.33% | CPU:  2.01%
